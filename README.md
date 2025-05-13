@@ -24,7 +24,7 @@
 ## 🛠️ Installation  
 ### 1. Clone the repository:  
 ```bash  
-git clone https://github.com/zsh-ncursed/ssh-manager_tui.git
+git clone https://github.com/zsh-ncursed/ssh_manager_tui.git
 
 **### 2. Make the script executable:**
 ```bash 
@@ -32,7 +32,7 @@ chmod +x ssh_manager_tui.sh
 
 ### 3. Run the manager:
 ```bash
-./ssh-manager_tui.sh
+./ssh_manager_tui.sh
 
 ---
 
