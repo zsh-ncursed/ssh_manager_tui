@@ -1,8 +1,6 @@
 # SSH Manager TUI  
 *A terminal-based SSH connection manager with a modern color interface, designed to simplify managing multiple SSH profiles*  
-![tuisshman](https://github.com/user-attachments/assets/67bad506-b0e2-45e3-a1f2-ad61d3313803)
-
-  
+![tuisshman](https://github.com/user-attachments/assets/e49d3a47-6f8d-4c2a-b45f-b4d05f599296)
 
 ---
 
