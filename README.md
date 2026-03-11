@@ -25,7 +25,7 @@
 ```bash  
 git clone https://github.com/zsh-ncursed/ssh_manager_tui.git
 
-**### 2. Make the script executable:**
+### 2. Make the script executable:**
 ```bash 
 chmod +x ssh_manager_tui.sh
 
